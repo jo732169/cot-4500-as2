@@ -1,0 +1,1 @@
+Install numpy first by using py -m install numpy from the command line before proceeding to run the script. 
